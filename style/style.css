@@ -409,7 +409,7 @@ body {
   background-image: url(../img/Like.png);
   background-repeat: no-repeat;
   background-position-y: 50%;
-  background-position-x: 0;
+  background-position-x: 6px;
   background-size: 40%;
 }
 
@@ -667,7 +667,7 @@ body {
   background-image: url(../img/DummyLogos.png), repeating-linear-gradient(135deg, #0c0c0c, #0c0c0c 2px, #030303 4px, #0c0c0c 6px);
   background-blend-mode: screen;
   background-position: center;
-  background-size: contain, auto;
+  background-size: 95%, auto;
   background-repeat: no-repeat, repeat;
   height: 360px;
   width: 100%;
@@ -724,7 +724,7 @@ body {
 }
 
 .user-review__item {
-  margin: 0 5px 5px 5px;
+  margin: 0 5px 10px 5px;
   -ms-flex-preferred-size: 370px;
       flex-basis: 370px;
   display: -webkit-box;
